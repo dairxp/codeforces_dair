@@ -1,11 +1,12 @@
 # Codeforces Solutions
 
-Este repositorio contiene mis soluciones a problemas de **Codeforces**, resueltos principalmente en **Python** y algunos en **C++**. La intención es registrar mi progreso competitivo y compartir enfoques de solución.
+Este repositorio contiene mis soluciones a problemas de **Codeforces**, resueltos en **Python, C++, Java**. La intención es registrar mi progreso competitivo y compartir enfoques de solución.
 
 ## Tecnologías
 
 - Python 3.x
 - C++20
+- Java 22
 
 ## Cómo contribuir
 
